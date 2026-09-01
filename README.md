@@ -10,4 +10,4 @@ leastsquare.ipynb - simple handed code for least squares not using nn.Module
 
 simpleNN-class.ipynb - a simple network using class
 
-simpleNN-hand.iptnb - a simple network not using class
+simpleNN-hand.ipynb - a simple network not using class
