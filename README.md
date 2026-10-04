@@ -11,3 +11,5 @@ leastsquare.ipynb - simple handed code for least squares not using nn.Module
 simpleNN-class.ipynb - a simple network using class
 
 simpleNN-hand.ipynb - a simple network not using class
+
+PINN-decay.ipynb - solve dx/dt = -x ising PIN. 
